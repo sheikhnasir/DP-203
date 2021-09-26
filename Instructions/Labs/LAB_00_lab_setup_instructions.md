@@ -48,9 +48,9 @@ Perform the following tasks to prepare your environment for the labs.
     Set-ExecutionPolicy Unrestricted
     ```
     If you get error , run this command first 
-    
+    ```
     Get-Help Set-ExecutionPolicy
-
+   ```
 
     > **Note**: If you receive a prompt that you are installing the module from an untrusted repository, enter **A** to select the *Yes to All* option.
 
